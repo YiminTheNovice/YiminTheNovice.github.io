@@ -1,11 +1,11 @@
 title: Yimin Guo # your name (or website title) here
-logo: "C:\\Users\\guoyi\\OneDrive\\Pictures\\Yimin.jepg" # your photo (or logo) here
+logo: "/Users/guoyi/OneDrive/Pictures/Yimin.jepg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Pursuing Master in Economics at University of Wsiconsin-Madison
   <br><br>
-  Second description 
+  Seeking opportunities in data analytics and data science 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/guo-yimin/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
