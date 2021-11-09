@@ -1,8 +1,8 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Category Name 1 
+## Data Wrangling 
 
 [Project 1 Title](/725_hw3_Yimin_Guo.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -17,7 +17,7 @@
 
 ---
 
-### Category Name 2 
+### Machine Learning Practice 
 
 [Project 1 Title](/725_hw3_Yimin_Guo.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
