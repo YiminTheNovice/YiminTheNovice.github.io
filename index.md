@@ -4,7 +4,7 @@
 
 ## Data Wrangling 
 
-[Project 1 Title](/725_hw3_Yimin_Guo.html)
+[Data Manipulation and Seasonality Adjustment on Quarterly Workforce Indicators (QWI) Data](/prep_qwi_demo.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
