@@ -8,7 +8,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Defining Similarity Between Two Counties Using Industrial Composition](/cnty_pair_demo.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
