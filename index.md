@@ -12,12 +12,12 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Obtaining The IO-SIC Concordance Table Using String Manipulation](/io_sic_1987_demo.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Machine Learning Practice 
+## Machine Learning Practice 
 
 [Project 1 Title](/725_hw3_Yimin_Guo.html)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
