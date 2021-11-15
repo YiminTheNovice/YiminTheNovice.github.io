@@ -9,7 +9,7 @@
 
 ---
 [Defining Similarity Between Two Counties Using Industrial Composition](/cnty_pair_demo.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/cnty_pair_thumbnail.png?raw=true"/>
 
 ---
 [Obtaining The IO-SIC Concordance Table via String Manipulation](/io_sic_1987_demo.html)
@@ -21,12 +21,5 @@
 
 [Project 1 Title](/725_hw3_Yimin_Guo.html)
 <img src="images/reg_thumbnail.png?raw=true"/>
-
----
-
-## Machine Learning Practice 
-
-[Project 1 Title](/725_hw3_Yimin_Guo.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ##### *More projects are on the way*
