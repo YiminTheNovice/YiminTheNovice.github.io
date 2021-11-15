@@ -20,7 +20,7 @@
 ## Statistical Analysis
 
 [Project 1 Title](/725_hw3_Yimin_Guo.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/reg_thumbnail.png?raw=true"/>
 
 ---
 
