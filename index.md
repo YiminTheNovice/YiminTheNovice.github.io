@@ -13,7 +13,7 @@
 
 ---
 [Obtaining The IO-SIC Concordance Table via String Manipulation](/io_sic_1987_demo.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/io_sic_1987_thumbnail.png?raw=true"/>
 
 ---
 
