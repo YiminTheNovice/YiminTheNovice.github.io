@@ -19,7 +19,7 @@
 
 ## Statistical Analysis
 
-[Project 1 Title](/725_hw3_Yimin_Guo.html)
+[Regressing Labor Market Variables on State Level Anti-immigration Legislation: A Difference-in-Difference Approach](/reg_demo.html)
 <img src="images/reg_thumbnail.png?raw=true"/>
 
 ##### *More projects are on the way*
