@@ -5,7 +5,7 @@
 ## Data Wrangling 
 
 [Data Manipulation and Seasonality Adjustment on Quarterly Workforce Indicators (QWI) Data](/prep_qwi_demo.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/prep_qwi_thumbnail.png?raw=true"/>
 
 ---
 [Defining Similarity Between Two Counties Using Industrial Composition](/cnty_pair_demo.html)
